@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "features": ["Access to gym equipment", "One complimentary personal training session"],
+      "prices":  70
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "features": ["Access to gym equipment", "Unlimited group fitness classes", "Three complimentary personal training sessions"],
+      "prices": 110
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "features": ["Access to gym equipment", "Unlimited group fitness classes", "Unlimited personal training sessions", "Sauna and steam room access"],
+      "prices": 160
+    }
+  ]
